@@ -4,6 +4,7 @@
     <div>welcome to docker-jenkins-vue</div>
     <div>DJV</div>
     <div>commit must 'djv: 发邮件'</div>
+    <div>must push master</div>
   </div>
 </template>
 <script>
