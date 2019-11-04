@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <div>welcome to docker-jenkins-vue</div>
     <div>DJV</div>
+    <div>commit must 'djv: xxx'</div>
   </div>
 </template>
 
