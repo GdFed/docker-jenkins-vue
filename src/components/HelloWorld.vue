@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <div>welcome to docker-jenkins-vue</div>
+    <div>DJV</div>
   </div>
 </template>
 
