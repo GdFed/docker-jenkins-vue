@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <div>welcome to docker-jenkins-vue</div>
     <div>DJV</div>
-    <div>commit must 'djv: ref'</div>
+    <div>commit must 'djv: 发邮件'</div>
   </div>
 </template>
 <script>
