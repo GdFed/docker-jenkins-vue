@@ -4,6 +4,7 @@
     <div>welcome to docker-jenkins-vue</div>
     <div>DJV</div>
     <div>commit must 'djv: xxx'</div>
+    <div>master push</div>
   </div>
 </template>
 
